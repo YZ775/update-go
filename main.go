@@ -1,8 +1,6 @@
 package main
 
-import (
-	"update-go/cmd"
-)
+import "github.com/YZ775/update-go/cmd"
 
 func main() {
 	cmd.Execute()
